@@ -1,3 +1,2 @@
 # Robot-Challenge
-Code and documents pertaining to the Robot Challenge
-testest
+Code and documents pertaining to the Robotics Challenge
